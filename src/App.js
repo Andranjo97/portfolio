@@ -1,5 +1,5 @@
-import React from "react";
-import Canvas from "./canvas/Canvas";
+import React from 'react';
+import Canvas from './canvas/Canvas';
 
 function App() {
   return <Canvas />;
